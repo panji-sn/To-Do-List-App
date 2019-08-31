@@ -1,0 +1,12 @@
+form {
+  background-color:aqua;
+  text-align:center;
+  box-sizing: border-box;
+}
+h1 {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align:center;
+}
+body {
+  background-color:azure;
+}
